@@ -1,0 +1,28 @@
+{
+  "name": "sizwezakhe-masemola-280-node-file-io-",
+  "version": "1.0.0",
+  "description": "Node & File IO (280) For raw project instructions see: https://raw.githubusercontent.com/Umuzi-org/tech-department/master/content/projects/nodejs/file-io/_index.md",
+  "main": "node_file_io.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umuzi-org/Sizwezakhe-Masemola-280-node-file-io-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Umuzi-org/Sizwezakhe-Masemola-280-node-file-io-/issues"
+  },
+  "homepage": "https://github.com/Umuzi-org/Sizwezakhe-Masemola-280-node-file-io-#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jasmine": "^3.6.2",
+    "nodemon": "^2.0.6",
+    "pg": "^8.4.2",
+    "supertest": "^5.0.0"
+  }
+}
